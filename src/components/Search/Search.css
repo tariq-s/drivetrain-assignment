@@ -1,0 +1,21 @@
+.search {
+  width: 40%;
+  max-width: 450px;
+  margin: 20px;
+}
+
+.searchbar {
+  width: 100%;
+  height: 40px;
+  border-radius: 8px;
+  font-size: 1.25rem;
+  padding: 10px;
+  background-color: #f2ebe9;
+  color: #243a73;
+  border: none;
+}
+
+.suggestions {
+  margin-top: 5px;
+  box-shadow: 6px 6px 6px rgba(68, 68, 68, 0.1);
+}

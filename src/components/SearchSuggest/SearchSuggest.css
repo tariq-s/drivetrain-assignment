@@ -1,0 +1,24 @@
+.searchsuggest {
+  display: flex;
+  height: 40px;
+  color: #7c3e66;
+}
+
+.searchsuggest:hover {
+  background-color: #e6ecf5;
+  cursor: pointer;
+}
+
+.avatar {
+  border-radius: 50%;
+  margin: 5px 10px;
+  border: 2px solid #7c3e66;
+}
+
+.username {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  margin: 5px;
+}
