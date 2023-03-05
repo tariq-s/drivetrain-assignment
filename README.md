@@ -45,5 +45,3 @@ All the React components reside in the omponents folder. Each component is a dir
 #### 'utils' Directory
 
 Contains the utility functions used in the app.
-
-Update
